@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MobWeb_CategoryLinksInLayeredNavigation>
+            <active>true</active>
+            <codePool>local</codePool>
+        </MobWeb_CategoryLinksInLayeredNavigation>
+    </modules>
+</config>

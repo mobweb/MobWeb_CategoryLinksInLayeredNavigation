@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config> 
+    <modules>
+        <MobWeb_CategoryLinksInLayeredNavigation>
+            <version>0.0.1</version>
+        </MobWeb_CategoryLinksInLayeredNavigation>
+    </modules>
+    <global>
+        <models>
+            <MobWeb_CategoryLinksInLayeredNavigation>
+                <class>MobWeb_CategoryLinksInLayeredNavigation_Model</class>
+            </MobWeb_CategoryLinksInLayeredNavigation>
+            <catalog>
+                <rewrite>
+                    <layer_filter_item>MobWeb_CategoryLinksInLayeredNavigation_Model_Layer_Filter_Item</layer_filter_item>
+                </rewrite>
+            </catalog>
+        </models>
+    </global>
+</config>
